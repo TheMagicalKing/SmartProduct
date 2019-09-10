@@ -19,6 +19,12 @@ public class Watch {
     }
     Boolean isMsgReceived(){
         System.out.println("User has received a message change the screen to display the message!");
+        if (msgReceived = true) {
+            System.out.println("User has received a message!!!");
+        } else if (msgReceived = false) {
+            System.out.println("User hasn't received a message!!!");
+        }
+
         //@TODO check if the user has received a message
         //@TODO if the user has received a message change the screen to display said message
         return msgReceived;
