@@ -32,3 +32,15 @@ public class Main {
 
     }
 }
+
+/**
+
+ psvm()
+ Tandbørste pstandbørste = new Tandbørste();
+ Tandbørste lstandbørste = new Tandbørste();
+
+ pstandbørste.erStartet = true
+
+
+ }
+ **/
